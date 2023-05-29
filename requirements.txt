@@ -64,7 +64,6 @@ smmap==5.0.0
 sortedcontainers==2.4.0
 spacy-legacy==3.0.12
 spacy-loggers==1.0.4
-srsly
 streamlit==1.22.0
 streamlit-option-menu==0.3.2
 streamlit-tags==1.2.8
